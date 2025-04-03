@@ -89,22 +89,6 @@ Cores contrastantes para melhor legibilidade
 
 Layout centralizado e harmonioso
 
-📂 Estrutura dos Arquivos
-
-buscador-estados/
-├── index.html        # Estrutura principal
-├── style.css         # Estilos completos
-├── script.js         # Lógica de busca
-└── movie-paijage.mp4 # Vídeo de fundo
-🚀 Como Usar
-Clone o repositório
-
-Abra o arquivo index.html no navegador
-
-Digite o nome de um estado ou capital
-
-Veja as informações aparecerem!
-
 💡 Destaques do Código
 Busca sem acentos: removerAcentos(texto)
 
