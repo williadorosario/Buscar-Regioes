@@ -79,6 +79,7 @@ Tecnologia	Descrição
 HTML5	Estrutura semântica da página
 CSS3	Estilos avançados e efeitos visuais
 JavaScript	Lógica de busca e interatividade
+
 🎨 Design e Estilo
 Fonte Oranienbaum do Google Fonts
 
