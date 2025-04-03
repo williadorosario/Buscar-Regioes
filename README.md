@@ -1,4 +1,5 @@
 Buscador de Estados e Capitais do Brasil - JavaScript
+
 🌟 Funcionalidades Principais
 Este script JavaScript implementa um buscador inteligente de estados e capitais brasileiros com:
 
