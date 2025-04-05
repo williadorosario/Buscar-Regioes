@@ -111,4 +111,20 @@ Event listeners e interações
 
 CSS avançado (flexbox, z-index, object-fit)
 
+<div align="center">
+ <img src='https://github.com/user-attachments/assets/c607099a-f274-428c-9baf-0ceb3fb825da'
+
+</div>
+
+<div align="center">
+ <img src='https://github.com/user-attachments/assets/a98d7ced-205a-4b80-8dd6-d107c5146acd'
+</div>
+
+<div align="center">
+ <img src='https://github.com/user-attachments/assets/28aeaadd-44c2-45d9-84b2-9d58e96ee962'
+
+</div>
+
+
+
  
